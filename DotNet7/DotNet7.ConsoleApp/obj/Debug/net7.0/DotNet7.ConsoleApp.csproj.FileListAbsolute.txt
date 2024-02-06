@@ -1,0 +1,15 @@
+/Users/heinhtet/heinhtet/C#/HHDotNet/DotNet7/DotNet7.ConsoleApp/bin/Debug/net7.0/DotNet7.ConsoleApp
+/Users/heinhtet/heinhtet/C#/HHDotNet/DotNet7/DotNet7.ConsoleApp/bin/Debug/net7.0/DotNet7.ConsoleApp.deps.json
+/Users/heinhtet/heinhtet/C#/HHDotNet/DotNet7/DotNet7.ConsoleApp/bin/Debug/net7.0/DotNet7.ConsoleApp.runtimeconfig.json
+/Users/heinhtet/heinhtet/C#/HHDotNet/DotNet7/DotNet7.ConsoleApp/bin/Debug/net7.0/DotNet7.ConsoleApp.dll
+/Users/heinhtet/heinhtet/C#/HHDotNet/DotNet7/DotNet7.ConsoleApp/bin/Debug/net7.0/DotNet7.ConsoleApp.pdb
+/Users/heinhtet/heinhtet/C#/HHDotNet/DotNet7/DotNet7.ConsoleApp/obj/Debug/net7.0/DotNet7.ConsoleApp.csproj.AssemblyReference.cache
+/Users/heinhtet/heinhtet/C#/HHDotNet/DotNet7/DotNet7.ConsoleApp/obj/Debug/net7.0/DotNet7.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/heinhtet/heinhtet/C#/HHDotNet/DotNet7/DotNet7.ConsoleApp/obj/Debug/net7.0/DotNet7.ConsoleApp.AssemblyInfoInputs.cache
+/Users/heinhtet/heinhtet/C#/HHDotNet/DotNet7/DotNet7.ConsoleApp/obj/Debug/net7.0/DotNet7.ConsoleApp.AssemblyInfo.cs
+/Users/heinhtet/heinhtet/C#/HHDotNet/DotNet7/DotNet7.ConsoleApp/obj/Debug/net7.0/DotNet7.ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/heinhtet/heinhtet/C#/HHDotNet/DotNet7/DotNet7.ConsoleApp/obj/Debug/net7.0/DotNet7.ConsoleApp.dll
+/Users/heinhtet/heinhtet/C#/HHDotNet/DotNet7/DotNet7.ConsoleApp/obj/Debug/net7.0/refint/DotNet7.ConsoleApp.dll
+/Users/heinhtet/heinhtet/C#/HHDotNet/DotNet7/DotNet7.ConsoleApp/obj/Debug/net7.0/DotNet7.ConsoleApp.pdb
+/Users/heinhtet/heinhtet/C#/HHDotNet/DotNet7/DotNet7.ConsoleApp/obj/Debug/net7.0/DotNet7.ConsoleApp.genruntimeconfig.cache
+/Users/heinhtet/heinhtet/C#/HHDotNet/DotNet7/DotNet7.ConsoleApp/obj/Debug/net7.0/ref/DotNet7.ConsoleApp.dll
