@@ -20,3 +20,4 @@
 /Users/heinhtet/heinhtet/C#/HHDotNet/DotNet7/DotNet7.ConsoleApp/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
 /Users/heinhtet/heinhtet/C#/HHDotNet/DotNet7/DotNet7.ConsoleApp/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
 /Users/heinhtet/heinhtet/C#/HHDotNet/DotNet7/DotNet7.ConsoleApp/obj/Debug/net7.0/DotNet7.ConsoleApp.csproj.CopyComplete
+/Users/heinhtet/heinhtet/C#/HHDotNet/DotNet7/DotNet7.ConsoleApp/bin/Debug/net7.0/Dapper.dll

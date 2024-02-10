@@ -1,19 +1,22 @@
 ﻿<Properties StartupConfiguration="{F8445C1E-6A09-4725-92CB-D81B17C9965C}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="DotNet7.ConsoleApp/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DotNet7.ConsoleApp/AdoDotNetExamples/AdoDotNetExample.cs">
     <Files>
-      <File FileName="DotNet7.ConsoleApp/Program.cs" Line="4" Column="19" />
+      <File FileName="DotNet7.ConsoleApp/Program.cs" Line="14" Column="31" />
+      <File FileName="DotNet7.ConsoleApp/AdoDotNetExamples/AdoDotNetExample.cs" Line="117" Column="28" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DotNet7">
-            <Node name="DotNet7.ConsoleApp">
-              <Node name="Dependencies" expanded="True" />
+            <Node name="DotNet7.ConsoleApp" expanded="True">
+              <Node name="AdoDotNetExamples" expanded="True">
+                <Node name="AdoDotNetExample.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>

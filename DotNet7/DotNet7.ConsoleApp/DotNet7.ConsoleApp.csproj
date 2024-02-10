@@ -9,11 +9,16 @@
 
   <ItemGroup>
     <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
+    <PackageReference Include="Dapper" Version="2.1.28" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="AdoDotNetExamples\" />
+    <None Remove="DapperExamples\" />
+    <None Remove="Models\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="AdoDotNetExamples\" />
+    <Folder Include="DapperExamples\" />
+    <Folder Include="Models\" />
   </ItemGroup>
 </Project>
