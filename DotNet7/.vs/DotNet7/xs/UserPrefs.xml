@@ -1,28 +1,32 @@
 ﻿<Properties StartupConfiguration="{F8445C1E-6A09-4725-92CB-D81B17C9965C}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DotNet7.ConsoleApp PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="DotNet7.ConsoleApp/AdoDotNetExamples/AdoDotNetExample.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DotNet7.ConsoleApp/DapperExamples/DapperExample.cs">
     <Files>
-      <File FileName="DotNet7.ConsoleApp/Program.cs" Line="14" Column="31" />
-      <File FileName="DotNet7.ConsoleApp/AdoDotNetExamples/AdoDotNetExample.cs" Line="117" Column="28" />
+      <File FileName="DotNet7.ConsoleApp/Program.cs" Line="19" Column="1" />
+      <File FileName="DotNet7.ConsoleApp/AdoDotNetExamples/AdoDotNetExample.cs" Line="40" Column="1" />
+      <File FileName="DotNet7.ConsoleApp/DapperExamples/DapperExample.cs" Line="90" Column="37" />
+      <File FileName="DotNet7.ConsoleApp/Models/BlogModel.cs" Line="4" Column="24" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="DotNet7">
+          <Node name="DotNet7" expanded="True">
             <Node name="DotNet7.ConsoleApp" expanded="True">
-              <Node name="AdoDotNetExamples" expanded="True">
-                <Node name="AdoDotNetExample.cs" selected="True" />
+              <Node name="AdoDotNetExamples" expanded="True" />
+              <Node name="DapperExamples" expanded="True">
+                <Node name="DapperExample.cs" selected="True" />
               </Node>
+              <Node name="Models" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.DotNet7.ConsoleApp PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

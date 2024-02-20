@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using DotNet7.ConsoleApp.AdoDotNetExamples;
 using DotNet7.ConsoleApp.DapperExamples;
+using DotNet7.ConsoleApp.EFCoreExamples;
 
 Console.WriteLine("Hello, World!");
 
@@ -17,17 +18,21 @@ Console.WriteLine("Hello, World!");
 
 //Dapper Examples
 
-DapperExample dapperExample = new DapperExample();
+//DapperExample dapperExample = new DapperExample();
 //dapperExample.Read();
 
-dapperExample.Edit(1002);
+//dapperExample.Edit(1002);
 //dapperExample.Create("SpinDaBagg", "42Dugg", "Forever Rolling");
 //dapperExample.Update(10,"GoAgain", "42Dugg", "Forever Rolling");
 
-dapperExample.Delete(3003);
+//dapperExample.Delete(3003);
 
 
-
+EFCoreExample eFCoreExample = new EFCoreExample();
+//eFCoreExample.Read();
+//eFCoreExample.Edit(1005);
+//eFCoreExample.Update(1002,"EFCore", "42Dugg", "Forever Rolling");
+eFCoreExample.Delete(4002);
 
 
 Console.ReadKey();
