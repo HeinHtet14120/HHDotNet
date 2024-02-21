@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WIF3MS2wGA/mEpzH+LtJljvop9BZV+r6xJgLrGA1yHM=",
+  "Source": "HHDotNet.RESTAPI",
+  "BasePath": "_content/HHDotNet.RESTAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
