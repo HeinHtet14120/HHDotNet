@@ -1,39 +1,33 @@
 ﻿<Properties StartupConfiguration="{534E1DAF-96C7-4F16-9896-62877F73883F}|https">
   <MonoDevelop.Ide.Workbench ActiveDocument="HHDotNet.RESTAPI/Controllers/BlogController.cs">
     <Files>
-      <File FileName="HHDotNet.RESTAPI/Program.cs" Line="21" Column="5" />
-      <File FileName="HHDotNet.RESTAPI/Controllers/BlogController.cs" Line="41" Column="50" />
-      <File FileName="HHDotNet.RESTAPI/Models/BlogModel.cs" Line="17" Column="7" />
-      <File FileName="HHDotNet.RESTAPI/AppDbContext.cs" Line="7" Column="2" />
-      <File FileName="DotNet7.ConsoleApp/EFCoreExamples/EFCoreExample.cs" Line="94" Column="85" />
+      <File FileName="HHDotNet.RESTAPI/Controllers/BlogController.cs" Line="74" Column="1" />
+      <File FileName="HHDotNet.RESTAPI/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+      <File FileName="HHDotNet.RESTAPI/Models/BlogModel.cs" Line="10" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="DotNet7">
+          <Node name="DotNet7" expanded="True">
             <Node name="DotNet7.ConsoleApp" expanded="True">
               <Node name="EFCoreExamples" expanded="True" />
               <Node name="Models" expanded="True" />
             </Node>
-            <Node name="HHDotNet.RESTAPI">
-              <Node name="Dependencies" expanded="True">
-                <Node name="PackageDependencies" expanded="True" />
-              </Node>
-              <Node name="Controllers" expanded="True">
-                <Node name="BlogController.cs" selected="True" />
-              </Node>
+            <Node name="HHDotNet.RESTAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.HHDotNet.RESTAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.DotNet7.ConsoleApp PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
