@@ -10,7 +10,8 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace HHDotNet.RESTAPI.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("test/[controller]")]
+    [ApiController]
     public class BlogController : Controller
     {
         private readonly AppDbContext _db;  //globel variable

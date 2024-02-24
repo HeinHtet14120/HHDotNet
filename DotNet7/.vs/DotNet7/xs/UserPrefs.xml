@@ -1,37 +1,39 @@
-﻿<Properties StartupConfiguration="{9CE0B8D6-C1F8-48BD-BC75-9FBE99191314}|https">
-  <MonoDevelop.Ide.Workbench ActiveDocument="DotNet7.ConsoleApp/EFCoreExamples/EFCoreExample.cs">
+﻿<Properties StartupConfiguration="{534E1DAF-96C7-4F16-9896-62877F73883F}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HHDotNet.RESTAPI/Controllers/BlogController.cs">
     <Files>
-      <File FileName="DotNet7.ConsoleApp/Program.cs" Line="32" Column="24" />
-      <File FileName="DotNet7.ConsoleApp/AdoDotNetExamples/AdoDotNetExample.cs" Line="6" Column="2" />
-      <File FileName="DotNet7.ConsoleApp/DapperExamples/DapperExample.cs" Line="71" Column="1" />
-      <File FileName="DotNet7.ConsoleApp/Models/BlogModel.cs" Line="10" Column="14" />
-      <File FileName="DotNet7.ConsoleApp/EFCoreExamples/EFCoreExample.cs" Line="14" Column="14" />
-      <File FileName="DotNet7.ConsoleApp/EFCoreExamples/AppDbContext.cs" Line="18" Column="46" />
+      <File FileName="HHDotNet.RESTAPI/Program.cs" Line="21" Column="5" />
+      <File FileName="HHDotNet.RESTAPI/Controllers/BlogController.cs" Line="41" Column="50" />
+      <File FileName="HHDotNet.RESTAPI/Models/BlogModel.cs" Line="17" Column="7" />
+      <File FileName="HHDotNet.RESTAPI/AppDbContext.cs" Line="7" Column="2" />
+      <File FileName="DotNet7.ConsoleApp/EFCoreExamples/EFCoreExample.cs" Line="94" Column="85" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DotNet7">
             <Node name="DotNet7.ConsoleApp" expanded="True">
+              <Node name="EFCoreExamples" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+            <Node name="HHDotNet.RESTAPI">
               <Node name="Dependencies" expanded="True">
                 <Node name="PackageDependencies" expanded="True" />
               </Node>
-              <Node name="DapperExamples" expanded="True" />
-              <Node name="EFCoreExamples" expanded="True">
-                <Node name="EFCoreExample.cs" selected="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="BlogController.cs" selected="True" />
               </Node>
-              <Node name="Models" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.DotNet7.WebAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.HHDotNet.RESTAPI FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.HHDotNet.RESTAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.DotNet7.ConsoleApp PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>
