@@ -10,7 +10,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace HHDotNet.RESTAPI.Controllers
 {
-    [Route("test/[controller]")]
+    [Route("api/[controller]")]
     [ApiController]
     public class BlogController : Controller
     {
