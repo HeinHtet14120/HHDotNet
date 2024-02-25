@@ -1,14 +1,14 @@
 ﻿<Properties StartupConfiguration="{534E1DAF-96C7-4F16-9896-62877F73883F}|https">
   <MonoDevelop.Ide.Workbench ActiveDocument="HHDotNet.RESTAPI/Controllers/BlogController.cs">
     <Files>
-      <File FileName="HHDotNet.RESTAPI/Controllers/BlogController.cs" Line="74" Column="1" />
-      <File FileName="HHDotNet.RESTAPI/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
-      <File FileName="HHDotNet.RESTAPI/Models/BlogModel.cs" Line="10" Column="14" />
+      <File FileName="HHDotNet.RESTAPI/Controllers/BlogController.cs" Line="13" Column="16" />
+      <File FileName="HHDotNet.RESTAPI/Controllers/WeatherForecastController.cs" />
+      <File FileName="HHDotNet.RESTAPI/Models/BlogModel.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="DotNet7" expanded="True">
+          <Node name="DotNet7">
             <Node name="DotNet7.ConsoleApp" expanded="True">
               <Node name="EFCoreExamples" expanded="True" />
               <Node name="Models" expanded="True" />
@@ -22,12 +22,13 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.HHDotNet.RESTAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.DotNet7.ConsoleApp PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>DotNet7.WebAPI/DotNet7.WebAPI.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.ItemProperties.HHDotNet.RESTAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
 </Properties>

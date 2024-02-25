@@ -2,6 +2,7 @@
 using DotNet7.ConsoleApp.AdoDotNetExamples;
 using DotNet7.ConsoleApp.DapperExamples;
 using DotNet7.ConsoleApp.EFCoreExamples;
+using DotNet7.ConsoleApp.HttpClientExamples;
 
 Console.WriteLine("Hello, World!");
 
@@ -28,11 +29,18 @@ Console.WriteLine("Hello, World!");
 //dapperExample.Delete(3003);
 
 
-EFCoreExample eFCoreExample = new EFCoreExample();
+//EFCoreExample eFCoreExample = new EFCoreExample();
 //eFCoreExample.Read();
 //eFCoreExample.Edit(1005);
 //eFCoreExample.Update(1002,"EFCore", "42Dugg", "Forever Rolling");
-eFCoreExample.Delete(4002);
+//eFCoreExample.Delete(4002);
+
+
+Console.WriteLine("Loading.......");
+Console.ReadKey();
+
+HttpClientExample client = new HttpClientExample();
+await client.Run();
 
 
 Console.ReadKey();
