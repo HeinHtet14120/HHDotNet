@@ -23,7 +23,7 @@ namespace DotNet7.ConsoleApp.EFCoreExamples
         public void Edit(int id)
         {
             AppDbContext db = new AppDbContext();
-            BlogModel item = db.Blogs.Where(item => item.BlogId == id).FirstOrDefault();
+            BlogModel item = db.Blogs.Where(item => item.BlogId == id).FirstOrDefault()!;
             //BlogModel item = db.Blogs.FirstOrDefault(item => item.BlogId == id);
 
             if (item is null)
@@ -58,7 +58,7 @@ namespace DotNet7.ConsoleApp.EFCoreExamples
         public void Update(int id,string title, string author, string content)
         {
             AppDbContext db = new AppDbContext();
-            BlogModel item = db.Blogs.Where(item => item.BlogId == id).FirstOrDefault();
+            BlogModel item = db.Blogs.Where(item => item.BlogId == id).FirstOrDefault()!;
             //BlogModel item = db.Blogs.FirstOrDefault(item => item.BlogId == id);
 
             if (item is null)
@@ -80,7 +80,7 @@ namespace DotNet7.ConsoleApp.EFCoreExamples
         public void Delete(int id)
         {
             AppDbContext db = new AppDbContext();
-            BlogModel item = db.Blogs.Where(item => item.BlogId == id).FirstOrDefault();
+            BlogModel item = db.Blogs.Where(item => item.BlogId == id).FirstOrDefault()!;
             //BlogModel item = db.Blogs.FirstOrDefault(item => item.BlogId == id);
 
             if (item is null)

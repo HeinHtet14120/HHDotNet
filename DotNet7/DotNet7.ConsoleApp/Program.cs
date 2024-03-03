@@ -3,6 +3,8 @@ using DotNet7.ConsoleApp.AdoDotNetExamples;
 using DotNet7.ConsoleApp.DapperExamples;
 using DotNet7.ConsoleApp.EFCoreExamples;
 using DotNet7.ConsoleApp.HttpClientExamples;
+using DotNet7.ConsoleApp.Models;
+using Newtonsoft.Json;
 
 Console.WriteLine("Hello, World!");
 
@@ -36,11 +38,35 @@ Console.WriteLine("Hello, World!");
 //eFCoreExample.Delete(4002);
 
 
+//Console.WriteLine("Loading.......");
+//Console.ReadKey();
+
+//HttpClientExample client = new HttpClientExample();
+//await client.Run();
+
+//BlogModel blog = new BlogModel();
+//blog.BlogTitle = "heinhtet";
+//blog.BlogAuthor = "hh";
+//blog.BlogContent = "C# object to json";
+
+//string json = JsonConvert.SerializeObject(blog);  // C# obj to Json
+
+//Console.WriteLine(json);
+
+//BlogModel blog2 = JsonConvert.DeserializeObject<BlogModel>(json) ! ;
+//Console.WriteLine(blog2.BlogTitle);
+//Console.WriteLine(blog2.BlogAuthor);
+//Console.WriteLine(blog2.BlogContent);
+
+
 Console.WriteLine("Loading.......");
 Console.ReadKey();
 
 HttpClientExample client = new HttpClientExample();
 await client.Run();
+
+
+
 
 
 Console.ReadKey();
