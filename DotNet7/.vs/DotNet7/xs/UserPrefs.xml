@@ -1,4 +1,8 @@
-﻿<Properties StartupConfiguration="Multiple Projects">
+﻿<Properties StartupConfiguration="{E6AEA037-F7FA-475D-978D-B89F5CD0DC67}|https">
+  <MonoDevelop.Ide.ItemProperties.DotNet7.BirdWebApi PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <DisabledProjects>
     <String>DotNet7.WebAPI/DotNet7.WebAPI.csproj</String>
   </DisabledProjects>
@@ -11,38 +15,37 @@
       </Items>
     </MultiItemSolutionRunConfiguration>
   </MultiItemStartupConfigurations>
-  <MonoDevelop.Ide.Workbench ActiveDocument="DotNet7.ConsoleApp/Program.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HHDotNet.RESTAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DotNet7.BirdWebApi/Controllers/BirdsController.cs">
     <Files>
-      <File FileName="HHDotNet.RESTAPI/Controllers/BlogController.cs" />
-      <File FileName="HHDotNet.RESTAPI/Controllers/WeatherForecastController.cs" />
-      <File FileName="HHDotNet.RESTAPI/Models/BlogModel.cs" />
-      <File FileName="DotNet7.ConsoleApp/HttpClientExamples/HttpClientExample.cs" Line="38" Column="1" />
-      <File FileName="DotNet7.ConsoleApp/Program.cs" Line="15" Column="52" />
-      <File FileName="DotNet7.ConsoleApp/EFCoreExamples/EFCoreExample.cs" />
-      <File FileName="DotNet7.ConsoleApp/EFCoreExamples/AppDbContext.cs" />
-      <File FileName="DotNet7.ConsoleApp/Models/BlogModel.cs" />
+      <File FileName="DotNet7.BirdWebApi/Controllers/BirdsController.cs" Line="27" Column="59" />
+      <File FileName="DotNet7.ConsoleApp/HttpClientExamples/HttpClientExample.cs" Line="28" Column="1" />
+      <File FileName="HHDotNet.RESTAPI/Controllers/BlogController.cs" Line="26" Column="1" />
+      <File FileName="DotNet7.ConsoleApp/HttpClientExamples/HttpClientExample2.cs" Line="1" Column="1" />
+      <File FileName="DotNet7.BirdWebApi/Models/BirdModel.cs" Line="14" Column="41" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DotNet7" expanded="True">
-            <Node name="DotNet7.ConsoleApp">
-              <Node name="HttpClientExamples" expanded="True" />
-              <Node name="Program.cs" selected="True" />
+            <Node name="DotNet7.BirdWebApi">
+              <Node name="Controllers" expanded="True">
+                <Node name="BirdsController.cs" selected="True" />
+              </Node>
             </Node>
-            <Node name="HHDotNet.RESTAPI">
-              <Node name="Controllers" expanded="True" />
+            <Node name="DotNet7.ConsoleApp" expanded="True">
+              <Node name="EFCoreExamples" expanded="True" />
+              <Node name="HttpClientExamples" expanded="True" />
               <Node name="Models" expanded="True" />
+            </Node>
+            <Node name="HHDotNet.RESTAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.HHDotNet.RESTAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "WaTqwI5EIeRXX2Y6Cbxo/BMPep10KmK9VBqc/VJAs1qQs3ZLeodNPWSG9VgPPjQma1PLCmxNSa7liEOOq57XCw==",
+  "success": true,
+  "projectFilePath": "/Users/heinhtet/heinhtet/C#/HHDotNet/DotNet7/DotNet7.BirdWebApi/DotNet7.BirdWebApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/heinhtet/.nuget/packages/microsoft.aspnetcore.openapi/7.0.15/microsoft.aspnetcore.openapi.7.0.15.nupkg.sha512",
+    "/Users/heinhtet/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/heinhtet/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/heinhtet/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/heinhtet/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/heinhtet/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/heinhtet/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/heinhtet/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

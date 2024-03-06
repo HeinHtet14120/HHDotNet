@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hcko0hcKPV4YYwDbC6X4XGRiAF2+AFejKmFC9SFbSuw=",
+  "Source": "DotNet7.BirdWebApi",
+  "BasePath": "_content/DotNet7.BirdWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
