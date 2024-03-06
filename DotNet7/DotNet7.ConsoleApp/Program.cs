@@ -4,6 +4,7 @@ using DotNet7.ConsoleApp.DapperExamples;
 using DotNet7.ConsoleApp.EFCoreExamples;
 using DotNet7.ConsoleApp.HttpClientExamples;
 using DotNet7.ConsoleApp.Models;
+using DotNet7.ConsoleApp.RestClientExamples;
 using Newtonsoft.Json;
 
 Console.WriteLine("Hello, World!");
@@ -62,8 +63,11 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine("Loading.......");
 Console.ReadKey();
 
-HttpClientExample client = new HttpClientExample();
-await client.Run();
+//HttpClientExample client = new HttpClientExample();
+//await client.Run();
+
+RestClientExample restClientExample = new RestClientExample();
+await restClientExample.Run();
 
 
 

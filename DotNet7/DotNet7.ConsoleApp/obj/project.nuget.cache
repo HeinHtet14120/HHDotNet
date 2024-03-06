@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ummDbEUFqyzM1nhCBSRBtdbMCTIYDnjXcdXiVMVdvn2Rj3bX0e0ROz1UBawVKUpk865t6Vw9Snijiu0vNCWOjw==",
+  "dgSpecHash": "JvNT1dfezNZ8h6QbpY3n01przG1WVs4fx8E24BOIHjsnTcQfszRvyOYX4UfAbDEK3dKX4Ke99S3XGjzwxKzcfA==",
   "success": true,
   "projectFilePath": "/Users/heinhtet/heinhtet/C#/HHDotNet/DotNet7/DotNet7.ConsoleApp/DotNet7.ConsoleApp.csproj",
   "expectedPackageFiles": [
@@ -39,6 +39,7 @@
     "/Users/heinhtet/.nuget/packages/microsoft.win32.registry/4.7.0/microsoft.win32.registry.4.7.0.nupkg.sha512",
     "/Users/heinhtet/.nuget/packages/microsoft.win32.systemevents/6.0.0/microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "/Users/heinhtet/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/heinhtet/.nuget/packages/restsharp/110.2.0/restsharp.110.2.0.nupkg.sha512",
     "/Users/heinhtet/.nuget/packages/runtime.native.system.data.sqlclient.sni/4.7.0/runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
     "/Users/heinhtet/.nuget/packages/runtime.win-arm64.runtime.native.system.data.sqlclient.sni/4.4.0/runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "/Users/heinhtet/.nuget/packages/runtime.win-x64.runtime.native.system.data.sqlclient.sni/4.4.0/runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
@@ -63,8 +64,8 @@
     "/Users/heinhtet/.nuget/packages/system.security.principal.windows/5.0.0/system.security.principal.windows.5.0.0.nupkg.sha512",
     "/Users/heinhtet/.nuget/packages/system.text.encoding/4.3.0/system.text.encoding.4.3.0.nupkg.sha512",
     "/Users/heinhtet/.nuget/packages/system.text.encoding.codepages/6.0.0/system.text.encoding.codepages.6.0.0.nupkg.sha512",
-    "/Users/heinhtet/.nuget/packages/system.text.encodings.web/6.0.0/system.text.encodings.web.6.0.0.nupkg.sha512",
-    "/Users/heinhtet/.nuget/packages/system.text.json/4.7.2/system.text.json.4.7.2.nupkg.sha512",
+    "/Users/heinhtet/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
+    "/Users/heinhtet/.nuget/packages/system.text.json/7.0.2/system.text.json.7.0.2.nupkg.sha512",
     "/Users/heinhtet/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "/Users/heinhtet/.nuget/packages/system.windows.extensions/6.0.0/system.windows.extensions.6.0.0.nupkg.sha512"
   ],
